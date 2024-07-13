@@ -16,17 +16,12 @@ https://youtube.com/shorts/2la4CVeTTBM?feature=shorts
 ## Overview
 This repository contains the code for adding a basic chat feature to your website. Users can send messages to each other in real-time.
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your/repository.git
-## Overview
-This repository contains the code for adding a basic chat feature to your website. Users can send messages to each other in real-time.
+
 
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your/repository.gi
+   git clone https://github.com/VMXROHIT.github.io
 Usage
 Include the chat UI component in your webpage:
 
