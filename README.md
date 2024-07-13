@@ -1,5 +1,6 @@
 # VMXROHIT
-
+This is channel link -
+(https://tools.apgy.in/ytc/@vmxrohitgameing)
 # Project Title
 This website is for my audience to talk to me and they can also tell me new ideas
 
