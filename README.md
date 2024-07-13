@@ -1,7 +1,7 @@
 # VMXROHIT
 
 # Project Title
-A brief description of what this project does and who it's for.
+This website is for my audience to talk to me and they can also tell me new ideas
 
 ## Table of Contents
 
@@ -14,11 +14,10 @@ A brief description of what this project does and who it's for.
 
 
 ## Usage
+This website is not for copying 
 
-Instructions and examples for using the project
 
 
-Provide some example snippets and screenshots, if applicable.
 
 
 ## License
