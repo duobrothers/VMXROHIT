@@ -13,8 +13,8 @@ This website is for my audience to talk to me and they can also tell me new idea
 - [Contact](#contact)
 
 ## Myvideos
-
-
+new video uploaded 
+https://youtube.com/shorts/2la4CVeTTBM?feature=share
 
 
 
@@ -25,6 +25,6 @@ This project is licensed under the MIT License - see the [LICENCE](LICENCE) file
 ## Contact
 
 Your Name - 
-[your.email@example.com](mailto:your.email@example.com)
-my instagram id -
-my facebook id
+[rohit.study2022@gmail.com](mailto:rohit.study2022@gmail.com)
+my instagram id - itx_rohit_ranjan001
+my facebook id -
