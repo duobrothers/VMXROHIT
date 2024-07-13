@@ -1,5 +1,5 @@
 # VMXROHIT
-![Description of Image](./path/to/Screenshot_2024-07-13-06-25-13-65_f9ee0578fe1cc94de7482bd41accb329.jpg)
+(.Screenshot_2024-07-13-06-25-13-65_f9ee0578fe1cc94de7482bd41accb329.jpg)
 This is channel link -
 https://tools.apgy.in/ytc/@vmxrohitgameing
 # Project Title
