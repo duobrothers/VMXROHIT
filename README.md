@@ -8,7 +8,7 @@ This website is for my audience to talk to me and they can also tell me new idea
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+- [Licence](#license)
 - [Contact](#contact)
 
 
@@ -22,7 +22,7 @@ This website is not for copying
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details.
 
 ## Contact
 
