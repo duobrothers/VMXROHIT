@@ -12,8 +12,10 @@ This website is for my audience to talk to me and they can also tell me new idea
 - [My videos](#Myvideos)
 - [Licence](#license)
 - [Contact](#contact)
-#Myvideos
-#gamecheatcodes
+
+##Myvideos
+
+##gamecheatcodes
 
 ## Usage
 This website is not for copying 
