@@ -7,13 +7,13 @@ This website is for my audience to talk to me and they can also tell me new idea
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Gamecheatcodes(#gamecheatcodes)
+- [Usage](#Usage)
+- [My videos](#Myvideos)
 - [Licence](#license)
 - [Contact](#contact)
-
-
+#Myvideos
+#gamecheatcodes
 
 ## Usage
 This website is not for copying 
