@@ -7,8 +7,7 @@ This website is for my audience to talk to me and they can also tell me new idea
 
 ## Table of Contents
 
-- [Gamecheatcodes(#gamecheatcodes)
-- [Myvideos](#Myvideos)
+- [gamecheatcodes](#gamecheatcodes)
 - [My videos](#Myvideos)
 - [Licence](#license)
 - [Contact](#contact)
