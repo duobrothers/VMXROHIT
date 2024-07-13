@@ -26,6 +26,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/duobrothers/projectname](https://github.com/yourusername/projectname]
+Your Name - 
+[your.email@example.com](mailto:your.email@example.com)
+my instagram id -
+my facebook id
